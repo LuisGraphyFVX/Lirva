@@ -1,1 +1,1 @@
-# Lirva
+# Lirva [![Latest release](https://img.shields.io/github/v/release/LuisGraphyFVX/Lirva?color=red&style=flat-square)](https://github.com/LuisGraphyFVX/Lirva/releases) [![License](https://img.shields.io/github/license/LuisGraphyFVX/Lirva?color=red&style=flat-square)](https://github.com/LuisGraphyFVX/Lirva/blob/v3/LICENSE)
