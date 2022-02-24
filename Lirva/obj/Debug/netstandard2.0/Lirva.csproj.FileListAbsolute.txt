@@ -1,0 +1,9 @@
+C:\Users\LuisGraphyFVX\source\repos\Lirva\obj\Debug\netstandard2.0\Lirva.csproj.AssemblyReference.cache
+C:\Users\LuisGraphyFVX\source\repos\Lirva\obj\Debug\netstandard2.0\Lirva.AssemblyInfoInputs.cache
+C:\Users\LuisGraphyFVX\source\repos\Lirva\obj\Debug\netstandard2.0\Lirva.AssemblyInfo.cs
+C:\Users\LuisGraphyFVX\source\repos\Lirva\obj\Debug\netstandard2.0\Lirva.csproj.CoreCompileInputs.cache
+C:\Users\LuisGraphyFVX\source\repos\Lirva\bin\Debug\netstandard2.0\Lirva.deps.json
+C:\Users\LuisGraphyFVX\source\repos\Lirva\bin\Debug\netstandard2.0\Lirva.dll
+C:\Users\LuisGraphyFVX\source\repos\Lirva\bin\Debug\netstandard2.0\Lirva.pdb
+C:\Users\LuisGraphyFVX\source\repos\Lirva\obj\Debug\netstandard2.0\Lirva.dll
+C:\Users\LuisGraphyFVX\source\repos\Lirva\obj\Debug\netstandard2.0\Lirva.pdb
